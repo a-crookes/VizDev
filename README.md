@@ -2,11 +2,8 @@
 
 Camera Setup: 
 
-Realsense Camera 
-
-Install LibRealSense from Source: https://github.com/IntelRealSense/librealsense/blob/master/doc/installation.md 
-
-Instructions: https://github.com/IntelRealSense/librealsense/blob/master/doc/distribution_linux.md
-
+To get the realsense camera and sdk running on ros, follow instructions at: 
 Intel ROS realsense: https://github.com/intel-ros/realsense
+
+Stereo Camera Calibration: http://wiki.ros.org/camera_calibration/Tutorials/StereoCalibration 
 
